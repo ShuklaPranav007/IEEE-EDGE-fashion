@@ -14,7 +14,7 @@ Welcome to **Edge**, your go-to fashion destination! At Edge, we believe in rede
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS.Js
 - **Hosting:** Netlify (for frontend) 
 - **Styling:** Tailwind CSS or Bootstrap (if applicable)
 
