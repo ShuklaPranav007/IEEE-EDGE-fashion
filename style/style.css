@@ -135,7 +135,7 @@ hr {
 }
 
 #home {
-  background-image: url("img/back.jpg");
+  background-image: url("https://images.unsplash.com/flagged/photo-1553802922-2eb2f7f2c65b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -144,6 +144,10 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  color: white;
+}
+#home-sub{
+  color: white;
 }
 
 #home span {
@@ -237,7 +241,7 @@ hr {
 }
 
 #banner {
-  background-image: url("img/banner/2.jpg");
+  background-image: url("https://untitled-magazine.com/online/wp-content/uploads/2024/09/Lauren_Altman_NYFW24_FEATURED-IMAGE-1.jpg");
   width: 100%;
   height: 60vh;
   background-size: cover;
