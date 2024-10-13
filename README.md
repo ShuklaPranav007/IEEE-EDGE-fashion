@@ -3,7 +3,7 @@
 Welcome to **Edge**, your go-to fashion destination! At Edge, we believe in redefining style and providing our customers with the latest trends, exclusive collections, and timeless pieces. Our mission is to empower individuals to express their unique style through fashion.
 
 ## ScreenShots
-
+<img src="./screenshot-1.png">
 
 ## Features
 
