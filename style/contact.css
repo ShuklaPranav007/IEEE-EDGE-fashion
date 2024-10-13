@@ -1,10 +1,11 @@
+
 .contact-cont{
-    display: flex;
+    
     width: 100%;
 }
 
 .description{
-    margin: 50px;
+    margin: 70px;
     width: 60%;
 }
 
@@ -34,11 +35,12 @@
 
 /* Contact Form */
 .contact-form {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 600px;
+    margin: 20px auto;
     padding: 20px;
     border: none;
     box-shadow: 0 0 10px 0;
+    border-radius: 10px;
 }
 
 .contact-form label {
@@ -67,7 +69,7 @@
 }
 
 .contact-form textarea {
-    resize: none;
+    height: 80px;
 }
 
 .submit-btn {
@@ -84,4 +86,10 @@
 
 .submit-btn:hover {
     background-color: #fb774b;
+}
+
+.footer-logo{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
 }

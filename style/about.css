@@ -27,6 +27,15 @@ h3{
 }
 
 @media screen  and (max-width:500px){
-    
-    
+
+    .about-container{
+    margin: 10px 20px;
+}
+.offer-cont{
+    display: flex;
+    flex-direction: column;
+}
+.offer-cards{
+    margin-top: 20px;
+}
 }
