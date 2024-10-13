@@ -78,6 +78,11 @@ hr {
   transform: rotate(20deg);
   margin: -3rem;
 }
+.product-img{
+  height: 350px;
+  width: 250px;
+  object-fit: cover;
+}
 
 #bar {
   font-size: 1.5rem;
