@@ -1,19 +1,21 @@
-.product img{
-    width: 100%;
-    height: auto;
-    box-sizing: border-box;
+.product img {
+    height: 280px;
+    width: 250px;
     object-fit: cover;
 }
-#Featured > div.row.mx-auto.container > nav > ul > li.page-item.active > a{
+
+#Featured>div.row.mx-auto.container>nav>ul>li.page-item.active>a {
     color: black;
     opacity: 0.7;
 }
-#Featured > div.row.mx-auto.container > nav > ul > li:nth-child(n):hover> a{
+
+#Featured>div.row.mx-auto.container>nav>ul>li:nth-child(n):hover>a {
     background-color: coral;
     border: 2px solid white;
     border-radius: 2px;
     color: white;
 }
-.pagination a{
+
+.pagination a {
     color: black;
 }

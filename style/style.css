@@ -78,12 +78,22 @@ hr {
   transform: rotate(20deg);
   margin: -3rem;
 }
+.product-img{
+  height: 350px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.watch-product-img{
+  height: 350px;
+  width: 250px;
+  object-fit: cover;
+}
 
 #bar {
   font-size: 1.5rem;
   padding: 7px;
   cursor: pointer;
-  /* font-weight: 500; */
   transition: 0.3s ease;
   color: black;
 }
