@@ -1,7 +1,4 @@
-body{
-   
-    display: flex;
-}
+
 .contact-cont{
     
     width: 100%;
@@ -89,4 +86,10 @@ body{
 
 .submit-btn:hover {
     background-color: #fb774b;
+}
+
+.footer-logo{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
 }
