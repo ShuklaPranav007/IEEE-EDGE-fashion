@@ -171,16 +171,26 @@ hr {
   left: 0;
   transition: 0.5s ease;
 }
+.details h2{
+  color: white;
+  font-size: 1.5rem;
+  transition: 0.5s ease-in-out;
+}
 
-#new .one:hover .details {
-  cursor: ponter;
+#new .one:hover .details{
+  cursor: pointer;
   background-color: rgb(245, 178, 178, 0.3);
+  padding: 2rem;
+  
+}
+#new .one:hover .details h2{
+transform: scale(1.2);
 }
 
 #new .one .details button {
   display: inline-block;
   font-size: 14px;
-  color: #2a2a2a;
+  color: #fafafa;
   background: none;
   text-transform: uppercase;
   border-bottom: 1px solid #2a2a2a;
@@ -255,11 +265,11 @@ hr {
 }
 
 #banner h4 {
-  color: #d8d8d8;
+  color: #0f0101;
 }
 
 #banner h1 {
-  color: #fff;
+  color: #000;
 }
 
 #banner button {
