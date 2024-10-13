@@ -10,7 +10,6 @@ Welcome to **Edge**, your go-to fashion destination! At Edge, we believe in rede
 - **Trendy Collections:** Explore our curated collections that reflect the latest fashion trends.
 - **User-Friendly Interface:** Enjoy a seamless shopping experience with our intuitive design.
 - **Responsive Design:** Access Edge on any device, from desktop to mobile.
-- **Secure Checkout:** Shop with confidence with our secure payment options.
 - **Customer Support:** Get assistance through our dedicated support team.
 
 ## Technologies Used
