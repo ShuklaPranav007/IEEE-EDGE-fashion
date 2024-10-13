@@ -43,7 +43,7 @@ button {
   font-weight: 700;
   outline: none;
   border: none;
-  background-color: #1d1d1d;
+  background-color:#fb774b;
   color: aliceblue;
   padding: 13px 30px;
   cursor: pointer;
@@ -71,12 +71,10 @@ hr {
   left: 0;
   box-shadow: 0 5px 10px rgb(0, 0, 0, 0.3);
 }
-.logo-img{
-  height: 10rem;
-  width: 10rem;
-  padding: -1rem;
-  transform: rotate(20deg);
-  margin: -3rem;
+.footer-logo{
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #fff;
 }
 .product-img{
   height: 350px;
