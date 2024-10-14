@@ -1,41 +1,72 @@
-.about-container{
+.about-container {
     margin: 10px 140px;
 }
 
-.wel-cont{
+.wel-cont {
     border: #fb774b solid;
     padding: 20px;
     border-radius: 10px;
 }
-.cont-1{
+
+.cont-1 {
     border-left: solid 30px #fb774b;
     padding-left: 10px;
     margin: 30px auto;
 }
-h3{
+
+h3 {
     color: #fb774b;
 }
 
-.offer-cont{
+.offer-cont {
     display: flex;
 }
-.offer-cards{
+
+.offer-cards {
     border: #fb774b solid;
     margin: 0 10px;
     padding: 10px;
     border-radius: 10px;
 }
 
-@media screen  and (max-width:500px){
+@media screen and (max-width:500px) {
 
-    .about-container{
-    margin: 10px 20px;
-}
-.offer-cont{
-    display: flex;
-    flex-direction: column;
-}
-.offer-cards{
-    margin-top: 20px;
-}
+    .about-container {
+        margin: 10px;
+    }
+
+    .offer-cont {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .offer-cards {
+        margin-top: 20px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+        outline: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 0 20px;
+        color: black;
+        transition: 0.3s ease;
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: coral;
+    }
+
+    .nav-item i {
+        font-size: 1.2rem;
+        padding: 0 0.7rem;
+        cursor: pointer;
+        transition: 0.3s ease;
+    }
+
+    .nav-item i:hover {
+        color: coral;
+    }
 }
